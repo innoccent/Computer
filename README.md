@@ -1,2 +1,4 @@
 # Computer
-a mobile simple computer
+a mobile simple computer made by react
+
+![](computer.jpg)
